@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bank System</string>
+    <string name="getStarted"><u>GET STARTED</u></string>
+    <string name="Choose_customer">Choose the Customer</string>
+    <string name="choose_amount">Choose the value</string>
+
+    <string-array name="customer_name">
+        <item>Customer 1</item>
+        <item>Customer 2</item>
+        <item>Customer 3</item>
+        <item>Customer 4</item>
+    </string-array>
+    <string-array name="money_values">
+
+        <item>50</item>
+        <item>100</item>
+        <item>200</item>
+
+    </string-array>
+
+</resources>
